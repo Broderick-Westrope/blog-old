@@ -1,5 +1,5 @@
 ---
-icon: lock
+icon: material-symbols:lock
 category:
   - Guide
 tag:

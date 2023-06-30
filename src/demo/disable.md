@@ -1,6 +1,6 @@
 ---
 title: Disabling layout and features
-icon: gears
+icon: fa6-solid:gears
 order: 3
 category:
   - Guide

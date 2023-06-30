@@ -1,5 +1,5 @@
 ---
-icon: circle-info
+icon: akar-icons:info
 cover: /assets/images/cover3.jpg
 ---
 

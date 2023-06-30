@@ -10,7 +10,7 @@ export default hopeTheme({
     url: "https://github.com/Broderick-Westrope",
   },
 
-  iconAssets: "fontawesome-with-brands",
+  iconAssets: "iconify",
 
   logo: "/logo.svg",
   logoDark: '/logo-dark.svg',
@@ -40,13 +40,13 @@ export default hopeTheme({
     intro: "/intro",
     avatar: '/monkey.svg',
     medias: {
-      Discord: "https://example.com",
-      Email: "mailto:brodie.westrope@gmail.com",
-      Facebook: "https://example.com",
       GitHub: "https://github.com/Broderick-Westrope",
-      Instagram: "https://example.com",
-      Linkedin: "https://example.com",
+      Email: "mailto:brodie.westrope@gmail.com",
+      Discord: "https://example.com",
       Rss: "https://example.com",
+      Linkedin: "https://example.com",
+      Instagram: "https://example.com",
+      Facebook: "https://example.com",
       Youtube: "https://example.com",
     },
   },

@@ -1,7 +1,7 @@
 ---
 home: true
 layout: BlogHome
-icon: home
+icon: tabler:home
 title: Home
 heroImage: /logo.svg
 heroText: Code Barrel
@@ -34,7 +34,7 @@ projects:
     desc: Detailed description of friend
     link: https://link.to.your.friend
 
-  - icon: /logo.svg
+  - icon: game-icons:barrel
     name: custom item
     desc: Detailed description of this custom item
     link: https://link.to.your.friend
