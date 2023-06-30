@@ -2,12 +2,10 @@
 icon: fa6-regular:pen-to-square
 date: 2022-01-05
 category:
-  - Banana
-  - Fruit
+  - Vue
 tag:
-  - yellow
-  - curly
-  - long
+  - Vue3
+  - Pinia
 ---
 
 # State Management

@@ -2,11 +2,10 @@
 icon: fa6-regular:pen-to-square
 date: 2022-01-01
 category:
-  - Apple
+  - .NET
 tag:
-  - red
-  - big
-  - round
+  - xUnit
+  - C#
 ---
 
 # xUnit Testing
