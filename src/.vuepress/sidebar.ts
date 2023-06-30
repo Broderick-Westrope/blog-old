@@ -4,13 +4,6 @@ export default sidebar({
   "/": [
     "",
     {
-      text: "Demo",
-      icon: "fa-solid:laptop-code",
-      prefix: "demo/",
-      link: "demo/",
-      children: "structure",
-    },
-    {
       text: "Vue",
       icon: "logos:vue",
       collapsible: true,
@@ -25,6 +18,5 @@ export default sidebar({
       children: 'structure'
     },
     "intro",
-    "slides",
   ],
 });
