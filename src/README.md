@@ -38,6 +38,4 @@ projects:
     name: custom item
     desc: Detailed description of this custom item
     link: https://link.to.your.friend
-
-footer: Made using VuePress Hope with the help of a barrel of monkeys :) 
 ---

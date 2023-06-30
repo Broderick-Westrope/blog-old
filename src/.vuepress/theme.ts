@@ -25,7 +25,7 @@ export default hopeTheme({
   // sidebar
   sidebar,
 
-  footer: "Default footer",
+  footer: "Made using VuePress Hope with the help of a barrel of monkeys :)",
 
   displayFooter: true,
 
