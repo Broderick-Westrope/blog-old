@@ -19,6 +19,8 @@ export default hopeTheme({
 
   docsDir: "src",
 
+  fullscreen: true,
+
   // navbar
   navbar,
 
