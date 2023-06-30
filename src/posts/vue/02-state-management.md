@@ -1,5 +1,5 @@
 ---
-icon: pen-to-square
+icon: fa6-regular:pen-to-square
 date: 2022-01-05
 category:
   - Banana
@@ -10,7 +10,7 @@ tag:
   - long
 ---
 
-# Banana 1
+# State Management
 
 ## Heading 2
 

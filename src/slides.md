@@ -1,6 +1,6 @@
 ---
 title: Slide page
-icon: person-chalkboard
+icon: ph:chalkboard-teacher
 layout: Slide
 ---
 
