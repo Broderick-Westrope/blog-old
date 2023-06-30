@@ -9,12 +9,18 @@ export default navbar([
     children: [
       {
         text: ".NET Core",
-        icon: "skill-icons:dotnet",
         prefix: "/dotnet-core",
         children: [
           { text: "xUnit Testing", icon: "pen-to-square", link: "/01-xunit-testing"}
         ]
       },
+      {
+        text: "Vue",
+        prefix: "/vue",
+        children: [
+          { text: "State Management", icon: "pen-to-square", link: "/02-state-management"}
+        ]
+      },  
     ],
   },
 ]);
