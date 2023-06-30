@@ -68,6 +68,21 @@ export default hopeTheme({
       categoryId: "DIC_kwDOJ1cVgs4CXlEX"
     },
 
+    feed: {
+      rss: true,
+      channel: {
+        pubDate: new Date(2023, 5, 30),
+        ttl: 60,
+        image: "https://images.unsplash.com/photo-1604292477525-8645ef04b21f?ixid=M3w0MDA1ODR8MHwxfHNlYXJjaHwyfHxiYXJyZWwlMjBvZiUyMG1vbmtleXN8ZW58MHwwfHx8MTY4ODA4MjY0NHww&ixlib=rb-4.0.3",
+        icon: "game-icons:barrel",
+        author: {
+          name: "Broderick Westrope",
+          email: "brodie.westrope@gmail.com",
+          url: "https://bwestrope.netlify.app/",
+        }
+      }
+    },
+
     // all features are enabled for demo, only preserve features you need here
     mdEnhance: {
       align: true,
