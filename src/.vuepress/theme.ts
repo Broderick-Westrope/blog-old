@@ -44,12 +44,11 @@ export default hopeTheme({
     medias: {
       GitHub: "https://github.com/Broderick-Westrope",
       Email: "mailto:brodie.westrope@gmail.com",
-      Discord: "https://example.com",
+      Discord: "https://discordapp.com/users/672675303629520897",
       Rss: "https://example.com",
-      Linkedin: "https://example.com",
-      Instagram: "https://example.com",
-      Facebook: "https://example.com",
-      Youtube: "https://example.com",
+      Linkedin: "https://www.linkedin.com/in/broderick-westrope",
+      Instagram: "https://www.instagram.com/the.broderick",
+      Facebook: "https://www.facebook.com/brodie.westrope",
     },
   },
 
