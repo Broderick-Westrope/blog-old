@@ -17,5 +17,13 @@ export default navbar([
     children: [
       { text: "State Management", icon: "pen-to-square", link: "/02-state-management"}
     ]
-  },  
+  },
+  {
+    text: "Author",
+    icon: "akar-icons:info",
+    link: "/intro",
+    // children: [
+    //   { text: "State Management", icon: "pen-to-square", link: "/02-state-management"}
+    // ]
+  },
 ]);
