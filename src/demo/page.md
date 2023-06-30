@@ -8,9 +8,9 @@ icon: file
 # This control sidebar order
 order: 1
 # Set author
-author: Ms.Hope
+author: Broderick Westrope
 # Set writing time
-date: 2020-01-01
+date: 2023-06-26
 # A page can have multiple categories
 category:
   - Guide

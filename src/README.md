@@ -2,11 +2,12 @@
 home: true
 layout: BlogHome
 icon: home
-title: Blog Home
+title: Home
 heroImage: /logo.svg
-heroText: The name of your blog
-tagline: You can put your slogan here
+heroText: Code Barrel
+tagline: Another software engineering blog.
 heroFullScreen: true
+bgImage: 'https://images.unsplash.com/photo-1604292477525-8645ef04b21f?ixid=M3w0MDA1ODR8MHwxfHNlYXJjaHwyfHxiYXJyZWwlMjBvZiUyMG1vbmtleXN8ZW58MHwwfHx8MTY4ODA4MjY0NHww&ixlib=rb-4.0.3'
 projects:
   - icon: project
     name: project name
@@ -38,11 +39,5 @@ projects:
     desc: Detailed description of this custom item
     link: https://link.to.your.friend
 
-footer: customize your footer text
+footer: Made using VuePress Hope with the help of a barrel of monkeys :) 
 ---
-
-This is a blog home page demo.
-
-To use this layout, you should set both `layout: BlogHome` and `home: true` in the page front matter.
-
-For related configuration docs, please see [blog homepage](https://theme-hope.vuejs.press/guide/blog/home/).
