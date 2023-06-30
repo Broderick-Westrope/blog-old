@@ -2,7 +2,6 @@ import { sidebar } from "vuepress-theme-hope";
 
 export default sidebar({
   "/": [
-    "",
     {
       text: "Vue",
       icon: "logos:vue",
@@ -17,6 +16,6 @@ export default sidebar({
       prefix: "posts/dotnet-core",
       children: 'structure'
     },
-    "intro",
+    "author",
   ],
 });
