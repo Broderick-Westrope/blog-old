@@ -16,6 +16,13 @@ export default sidebar({
       prefix: "posts/dotnet-core",
       children: 'structure'
     },
+    {
+      text: "Other",
+      collapsible: true,
+      icon: "tabler:folder",
+      prefix: "posts/other",
+      children: 'structure'
+    },
     "author",
   ],
 });

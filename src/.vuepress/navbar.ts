@@ -19,6 +19,12 @@ export default navbar([
     ]
   },
   {
+    text: "Other",
+    prefix: "/posts/other",
+    icon: "tabler:folder",
+    children: []
+  },
+  {
     text: "Author",
     icon: "akar-icons:info",
     link: "/author",
