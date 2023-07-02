@@ -8,7 +8,7 @@ The repository's Discussions are used to hold the site's comments thanks to the 
 
 ## Feedback
 
-Feedback is very welcome. If you have feedback on the content on the posts feel free to leave a comment or contact me directly via [my email](mailto:brodie.westrope@gmail.com). If you have feedback about the source code you may also contact me via [my email](mailto:brodie.westrope@gmail.com). Alternatively, you can contact me using any one of the social media platforms listed under my name on the site's homepage.
+Feedback is very welcome. If you have feedback on the content or the posts feel free to leave a comment or contact me directly via [my email](mailto:brodie.westrope@gmail.com). If you have feedback about the source code you may also contact me via [my email](mailto:brodie.westrope@gmail.com). Alternatively, you can contact me using any one of the social media platforms listed under my name on the site's homepage.
 
 ## Ideas
 
