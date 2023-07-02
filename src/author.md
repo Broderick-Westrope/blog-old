@@ -1,6 +1,7 @@
 ---
 icon: akar-icons:info
 date: 2023-06-30
+star: true
 ---
 
 # The Author
@@ -20,19 +21,49 @@ These are just some of the tools that let me get hands-on with code and realise 
 
 ### Personal Journey
 
-***Share a brief overview of your life leading up to becoming a software engineer. Highlight any pivotal moments or experiences that shaped your career path.***
+***Share an overview of your life leading up to becoming a software engineer. Highlight any pivotal moments or experiences that shaped your career path.***
+
+- LEGO
+- Minecraft
+- Scratch
+- Web design in ICT
+- Game Maker
+- Unity
+- TAFE
+- University
+- Mantel Group/Azenix
 
 ### Hobbies & Interests
 
 ***Besides coding and programming, what other hobbies or interests do you have? Do you have any unique skills or talents that complement your work as a software engineer?***
 
+- Motorcycle repair
+- Motorcycle riding
+- Magic The Gathering
+- Bouldering
+- Camping
+- Hiking & Mushroom Foraging
+- Mushroom foraging & growing
+- Mountain Biking
+
 ### Values & Philosophy
 
 ***What are some core values or guiding principles that drive your work as a software engineer? How do these values shape your approach to problem-solving and software development?***
 
+- Thorough
+- Patient
+- Stop & Smell the Roses
+- Test Driven Development
+- Convention over configuration
+
 ### Learning Mindset
 
 ***How do you stay updated with the latest trends and advancements in the software engineering field? Do you engage in continuous learning through courses, conferences, or online communities?***
+
+- Monthly .NET Catchup @ Azenix
+- Meetups
+- Reeder/RSS Feed
+- Conversations
 
 ## Professional
 
@@ -40,18 +71,41 @@ These are just some of the tools that let me get hands-on with code and realise 
 
 ***Share details about your educational background and any relevant degrees or certifications you have obtained in the field of software engineering.***
 
+- Left school after year 10
+- Cert IV & Diploma of Programming Digital & Interactive Games
+- Bachelor of Computer Science
+
 ### Industry experience
 
 ***Describe your experience working as a software engineer. Highlight notable projects or companies you have worked with, showcasing the range of technologies and domains you have worked in.***
+
+- Azenix / Mantel Group
+  - NIB: ASP.NET Core APIs, Buildkite pipeline config, AWS (Parameter Store)
 
 ### Areas of Expertise
 
 ***What are your specific areas of expertise within software engineering? Do you specialize in a particular programming language, framework, or domain?***
 
+- Open to all. Tried many.
+- Vue 3 (Composition API)
+- C#
+- Unity
+- .NET Core
+- ASP.NET
+- (Lots of microsoft) but not limited to this
+- C++
+- Python
+- R
+- Azure
+
 ### Achievements & Accolades
 
 ***Have you received any recognition or awards for your work as a software engineer? Share any noteworthy achievements that demonstrate your skills and contributions.***
 
+Not yet, but I'll keep this updated.
+
 ### Professional Affiliations
 
 ***Are you a member of any professional organizations or communities related to software engineering? Discuss your involvement and contributions to these groups.***
+
+Not yet, but I'll keep this updated.
