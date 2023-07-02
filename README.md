@@ -8,8 +8,10 @@ The repository's Discussions are used to hold the site's comments thanks to the 
 
 ## Feedback
 
-Feedback is very welcome. If you have feedback on the content or the posts feel free to leave a comment or contact me directly via [my email](mailto:brodie.westrope@gmail.com). If you have feedback about the source code you may also contact me via [my email](mailto:brodie.westrope@gmail.com). Alternatively, you can contact me using any one of the social media platforms listed under my name on the site's homepage.
+Feedback is very welcome. If you have feedback on the content or the posts feel free to leave a comment or contact me directly via [my email](mailto:broderickwestrope@gmail.com). If you have feedback about the source code you may also contact me via [my email](mailto:broderickwestrope@gmail.com). Alternatively, you can contact me using any one of the social media platforms listed under my name on the site's homepage.
 
 ## Ideas
 
 I love learning new technologies and sharing my knowledge with others. If you have ideas for blog posts feel free to send them through, especially if they are at all related to one of my public repositories because this means I probably won't have to learn it **all** from scratch, and I can get a post out faster! :sweat_smile:
+
+The best way to get your ideas is to comment them on [this Gist](https://gist.github.com/Broderick-Westrope/6a5d7743f02f72e104e5347cb4a2d6f3) so that people can react to good ideas and I can prioritize the ones that people want most.
