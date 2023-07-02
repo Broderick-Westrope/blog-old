@@ -6,7 +6,7 @@ export default defineUserConfig({
 
   lang: "en-US",
   title: "Code Barrel",
-  description: "Another software engineering blog. By Broderick Westrope.",
+  description: "A blog aimed at helping beginner/intermediate coders gain confidence & direction so they can do more, sooner.",
 
   theme,
 
