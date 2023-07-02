@@ -45,7 +45,7 @@ export default hopeTheme({
       GitHub: "https://github.com/Broderick-Westrope",
       Email: "mailto:broderickwestrope@gmail.com",
       Discord: "https://discordapp.com/users/672675303629520897",
-      Rss: "https://example.com",
+      Rss: "https://bwestrope.netlify.app/rss.xml",
       Linkedin: "https://www.linkedin.com/in/broderick-westrope",
       Instagram: "https://www.instagram.com/the.broderick",
       Facebook: "https://www.facebook.com/brodie.westrope",
