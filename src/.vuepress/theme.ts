@@ -39,7 +39,7 @@ export default hopeTheme({
 
   blog: {
     description: "A full stack software engineer in training. 🤞",
-    intro: "/intro",
+    intro: "/author",
     avatar: '/monkey.svg',
     medias: {
       GitHub: "https://github.com/Broderick-Westrope",
