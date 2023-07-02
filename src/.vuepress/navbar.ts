@@ -3,6 +3,11 @@ import { navbar } from "vuepress-theme-hope";
 export default navbar([
   "/",
   {
+    text: "Starred",
+    icon: "tabler:star",
+    link: "/star"
+  },
+  {
     text: ".NET Core",
     prefix: "/posts/dotnet-core",
     icon: "skill-icons:dotnet",
