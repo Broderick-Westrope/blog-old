@@ -43,7 +43,7 @@ export default hopeTheme({
     avatar: '/monkey.svg',
     medias: {
       GitHub: "https://github.com/Broderick-Westrope",
-      Email: "mailto:brodie.westrope@gmail.com",
+      Email: "mailto:broderickwestrope@gmail.com",
       Discord: "https://discordapp.com/users/672675303629520897",
       Rss: "https://example.com",
       Linkedin: "https://www.linkedin.com/in/broderick-westrope",
