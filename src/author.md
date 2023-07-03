@@ -94,12 +94,15 @@ Although not as often as my other hobbies, I do enjoy some mountain biking. Usua
 - Cert IV & Diploma of Programming Digital & Interactive Games
 - Bachelor of Computer Science
 
-### Industry experience (TODO)
+### Industry experience
 
 ***Describe your experience working as a software engineer. Highlight notable projects or companies you have worked with, showcasing the range of technologies and domains you have worked in.***
 
-- Azenix / Mantel Group
-  - NIB: ASP.NET Core APIs, Buildkite pipeline config, AWS (Parameter Store)
+#### Azenix
+
+Azenix is a team within the company Mantel Group. This was where my first position was as a "Future Associate" (like a graduate software/cloud engineer). The company does consulting for a variety of industries, and my team focussed on Microsoft products. This means that most of my projects would be geared towards .NET (using C#), GitHub services, and/or Azure. The projects I have done to date are:
+
+- NIB (Travel Insurance): Our team was tasked to build APIs using [ASP.NET Core](https://dotnet.microsoft.com/en-us/apps/aspnet) that integrated with AWS tools such as [Parameter Store](https://docs.aws.amazon.com/systems-manager/latest/userguide/systems-manager-parameter-store.html) and deployed using [Buildkite](https://buildkite.com/).
 
 ### Areas of Expertise (TODO)
 
