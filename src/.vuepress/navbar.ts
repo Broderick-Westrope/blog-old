@@ -11,7 +11,9 @@ export default navbar([
     text: ".NET Core",
     prefix: "/posts/dotnet-core",
     icon: "skill-icons:dotnet",
-    children: []
+    children: [
+      { text: "Basic Testing", link:"/basic-unit-tests-with-xUnit"}
+    ]
   },
   {
     text: "Vue",
