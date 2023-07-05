@@ -12,7 +12,7 @@ export default navbar([
     prefix: "/posts/dotnet-core",
     icon: "skill-icons:dotnet",
     children: [
-      { text: "Basic Testing", link:"/basic-unit-tests-with-xUnit"}
+      { text: "Basic Testing", icon: "fluent-mdl2:test-case", link:"/basic-unit-tests-with-xUnit"}
     ]
   },
   {

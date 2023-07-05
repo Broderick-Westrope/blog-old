@@ -20,6 +20,7 @@ The goal of this post is to learn how to configure and use xUnit to perform unit
 *NOTE: For this project I will be using Rider 2023.1.3, but the setup is very similar in Visual Studio. I will also be using .NET Core 6 and C# 10.*
 
 From the Rider welcome screen, choose "New Solution" (top right). Be sure to choose the project type "Unit Test Project" under the heading ".NET/.NET Core" ([more on .NET Core vs .NET Framework](https://www.netsolutions.com/insights/net-core-vs-net-framework/)) and fill in the following details:
+
 - **Solution Name**: This is the name of the solution to create. A solution is a container for related projects and information about those projects such as build configurations, IDE settings, etc.
 - **Project Name**: This is the name of the specific *Unit Test Project* we are making. This will contain all the test code we are going to write.
 - Solution Directory: Where the project will be created on your machine.
